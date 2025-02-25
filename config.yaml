@@ -1,0 +1,16 @@
+data:
+  dataset:
+      path: "data"
+      n_freq_bins: 128
+      time_steps: 512
+      segment_len: 5
+      stride: 1
+  data_module:
+      train_p: 0.7
+      val_p: 0.2
+      batch_size: 16
+
+model:
+  lstm_hidden_size: 256
+  learning_rate: 0.001
+  dropout_rate: 0

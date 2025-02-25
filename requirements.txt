@@ -1,0 +1,10 @@
+einops
+matplotlib
+mir_eval
+mirdara
+numpy
+pandas
+pytorch-lightning
+torch
+torchaudio
+tqdm
