@@ -24,4 +24,4 @@ pip install -r requirements.txt
 
 ### Download the data
 
-The dataset is be downloaded automatically via the `mirdata` package (see the Jupyter notebook).
+The dataset will be downloaded automatically via the `mirdata` package (see the Jupyter notebook).
